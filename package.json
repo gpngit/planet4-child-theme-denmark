@@ -1,0 +1,29 @@
+{
+  "name": "planet4-child-theme-denmark",
+  "version": "1.0.0",
+  "description": "Child theme for the Planet 4 Wordpress project. The related master theme’s code lives at:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Svilena Koleva",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elncetoo/planet4-child-theme-denmark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elncetoo/planet4-child-theme-denmark/issues"
+  },
+  "homepage": "https://github.com/elncetoo/planet4-child-theme-denmark#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "stylelint": "^13.2.1",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
