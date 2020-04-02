@@ -1,6 +1,3 @@
 vendor
 node_modules/
 PHP_CodeSniffer/
-
-# Built css and js assets
-assets/build/*
